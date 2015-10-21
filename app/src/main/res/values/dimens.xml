@@ -1,0 +1,4 @@
+<resources>
+    <dimen name="space_1_height">200dp</dimen>
+    <dimen name="space_2_height">40dp</dimen>
+</resources>

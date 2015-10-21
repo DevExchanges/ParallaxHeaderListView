@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Parallax Header ListView</string>
+    <string name="header">This is ListView Header</string>
+</resources>
