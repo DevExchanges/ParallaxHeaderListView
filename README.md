@@ -1,2 +1,2 @@
 # ParallaxHeaderListView
-A ListView with parallax header
+A ListView with parallax header. 
